@@ -1,0 +1,17 @@
+systemLog:
+  destination: file
+  path: ./logs/mongod.log
+  logAppend: true
+storage:
+  dbPath: ./db/
+net:
+  bindIp: localhost
+  port: 27017
+  ipv6 : true
+
+processManagement:
+  # fork -> start as deamons
+  fork: false
+
+#security:
+#  authorization: enabled
