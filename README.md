@@ -22,7 +22,7 @@ MacOS Users:
 pm2 allow you to use 100% of your CPU(s)
 
 ```sh
-> pm2 start ./dist/start.js --name Sebastian
+> pm2 start ./dist/start.js --name DiscordBot
 > pm2 start yarn --name discord_bot
 > pm2 restart start -- startdev
 > pm2 ls
