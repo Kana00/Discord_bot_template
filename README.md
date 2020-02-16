@@ -4,6 +4,25 @@
 
 ![Preview_bot](./assets/images/Preview_bot.png)
 
+## Technologies
+
+<img src="./assets/images/discordjs.png" style="width:80px"/>
+<img src="./assets/images/TypeScript_logo.png" style="width:80px"/>
+<img src="./assets/images/jest_logo.jpg" style="width:80px"/>
+<img src="./assets/images/mongodb-logo.png" style="width:80px"/>
+<img src="./assets/images/nodejs.png" style="width:80px"/>
+<img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" style="width:80px"/>
+
+
+<!-- [![Discord.JS](./assets/images/discordjs.png)](https://discord.js.org/)
+[![TypeScript](./assets/images/TypeScript_logo.png)](https://www.typescriptlang.org/)
+[![Jest](./assets/images/jest_logo.jpg)](https://jestjs.io/)
+[![Node.JS](./assets/images/nodejs.png)](https://nodejs.org/en/)
+[![MongoDB](./assets/images/mongodb-logo.png)](https://www.mongodb.com/)
+[![i18next](./assets/images/i18next.png)](https://www.i18next.com/)
+[![Visual Studio Code](./assets/images/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/) -->
+
+
 ## Installation
 MacOS Users:
 
