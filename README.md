@@ -1,5 +1,9 @@
 # Discord bot Template
 
+![build state](https://img.shields.io/badge/build-passing-green)
+
+![Preview_bot](./assets/images/Preview_bot.png)
+
 ## Installation
 MacOS Users:
 
