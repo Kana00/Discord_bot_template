@@ -34,7 +34,7 @@ bot.login(TOKEN);
 moment.locale('en');
 const commandsHandler = new Command(bot);
 bot.on('ready', async () => {
-  Logger.warn('---------- bot START ! ----------');
+  Logger.warn('---------- Bot START ! ----------');
   if (process.env.NODE_ENV === 'dev') Logger.warn('########## DÉVELOPPEMENT ##########');
   bot.user.setActivity('SET ACTIVITY HERE');
 });
