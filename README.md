@@ -6,13 +6,14 @@
 
 ## Technologies
 
-<img src="./assets/images/discordjs.png" style="width:80px"/>
-<img src="./assets/images/TypeScript_logo.png" style="width:80px"/>
-<img src="./assets/images/jest_logo.jpg" style="width:80px"/>
-<img src="./assets/images/mongodb-logo.png" style="width:80px"/>
-<img src="./assets/images/nodejs.png" style="width:80px"/>
-<img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" style="width:80px"/>
-
+<div style="display:flex">
+  <img src="./assets/images/discordjs.png" style="width:80px"/>
+  <img src="./assets/images/TypeScript_logo.png" style="width:80px"/>
+  <img src="./assets/images/jest_logo.jpg" style="width:80px"/>
+  <img src="./assets/images/mongodb-logo.png" style="width:80px"/>
+  <img src="./assets/images/nodejs.png" style="width:80px"/>
+  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" style="width:80px"/>
+</div>
 
 <!-- [![Discord.JS](./assets/images/discordjs.png)](https://discord.js.org/)
 [![TypeScript](./assets/images/TypeScript_logo.png)](https://www.typescriptlang.org/)
