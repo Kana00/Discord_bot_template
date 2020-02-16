@@ -1,5 +1,6 @@
 export default {
   translation: {
-    "hello": 'Hello'
+    "hello": "Hello",
+    "warnCommandSpam": "Don't spam too much 😗"
   }
 };
