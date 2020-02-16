@@ -16,7 +16,7 @@
 </div>
 
 ## Installation
-##### MacOS Users:
+##### MacOS Users
 
 ```sh
 # install Database
