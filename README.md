@@ -6,22 +6,22 @@
 
 ## Technologies
 
-<!-- <div style="display:flex">
-  <img src="./assets/images/discordjs.png" style="width:20px"/>
-  <img src="./assets/images/TypeScript_logo.png" style="width:20px"/>
-  <img src="./assets/images/jest_logo.jpg" style="width:20px"/>
-  <img src="./assets/images/mongodb-logo.png" style="width:20px"/>
-  <img src="./assets/images/nodejs.png" style="width:20px"/>
-  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" style="width:20px"/>
-</div> -->
+<div style="display:flex">
+  <img src="./assets/images/discordjs.png" width="100" height="100"/>
+  <img src="./assets/images/TypeScript_logo.png" width="100" height="100"/>
+  <img src="./assets/images/jest_logo.jpg" width="100" height="100"/>
+  <img src="./assets/images/mongodb-logo.png" width="100" height="100"/>
+  <img src="./assets/images/nodejs.png" width="100" height="100"/>
+  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" width="100" height="100"/>
+</div>
 
-[![Discord.JS](./assets/images/discordjs.png | width=100)](https://discord.js.org/)
+<!-- [![Discord.JS](./assets/images/discordjs.png | width=100)](https://discord.js.org/)
 [![TypeScript](./assets/images/TypeScript_logo.png | width=100)](https://www.typescriptlang.org/)
 [![Jest](./assets/images/jest_logo.jpg | width=100)](https://jestjs.io/)
 [![Node.JS](./assets/images/nodejs.png | width=100)](https://nodejs.org/en/)
 [![MongoDB](./assets/images/mongodb-logo.png | width=100)](https://www.mongodb.com/)
 [![i18next](./assets/images/i18next.png | width=100)](https://www.i18next.com/)
-[![Visual Studio Code](./assets/images/Visual_Studio_Code_1.35_icon.svg | width=100)](https://code.visualstudio.com/)
+[![Visual Studio Code](./assets/images/Visual_Studio_Code_1.35_icon.svg | width=100)](https://code.visualstudio.com/) -->
 
 
 ## Installation
