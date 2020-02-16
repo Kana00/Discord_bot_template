@@ -4,3 +4,4 @@ dist/*
 logs/*
 db/*
 !.keep
+.DS_Store
