@@ -15,9 +15,6 @@
   <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" width="100" height="100"/>
 </div>
 
-
-
-
 ## Installation
 MacOS Users:
 
@@ -48,3 +45,17 @@ pm2 allow you to use 100% of your CPU(s)
 > pm2 log
 > pm2 monit
 ```
+
+## Contributing
+
+There are many ways in which you can participate in the project, for example:
+
+- Submit bugs and feature requests, and help us verify as they are checked in
+- Review source code changes
+- Make pull requests for anything from typos to new content
+
+## License
+
+Copyright (c) Kana00. All rights reserved.
+
+Licensed under the MIT license.
