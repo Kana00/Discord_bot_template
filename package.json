@@ -1,0 +1,32 @@
+{
+  "name": "discord_bot_template",
+  "version": "1.0.0",
+  "description": "A Discord bot template in TypeScript",
+  "main": "./src/start.ts",
+  "author": "kana00",
+  "license": "MIT",
+  "scripts": {
+    "start": "clear && npx tsc && node ./dist/start.js",
+    "startdev": "clear && npx tsc && cross-env NODE_ENV=dev node ./dist/start.js",
+    "startserver": "clear && npx tsc && npx cross-env NODE_ENV=dev pm2 start ./dist/start.js",
+    "installMongo": "brew install mongodb-community",
+    "mongoshell": "mongo --host localhost:27017",
+    "mongod": "mongod --config ./mongod.yaml",
+    "mongoServiceMacOS": "brew services start mongodb-community",
+    "stopMongoServiceMacOS": "brew serivces stop mongodb-community"
+  },
+  "dependencies": {
+    "@types/mongodb": "^3.1.28",
+    "canvas": "^2.6.0",
+    "chalk": "^2.4.2",
+    "color": "^3.1.2",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.2.7",
+    "typescript": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/color": "^3.0.0",
+    "@types/node": "^12.0.8"
+  }
+}
