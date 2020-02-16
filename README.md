@@ -5,15 +5,16 @@
 ![Preview_bot](./assets/images/Preview_bot.png)
 
 ## Technologies
-
-<div style="display:flex; justify-content: center; width: 100%">
-  <img src="./assets/images/discordjs.png" width="100" height="100"/>
-  <img src="./assets/images/TypeScript_logo.png" width="100" height="100"/>
-  <img src="./assets/images/jest_logo.jpg" width="100" height="100"/>
-  <img src="./assets/images/mongodb-logo.png" width="100" height="100"/>
-  <img src="./assets/images/nodejs.png" width="100" height="100"/>
-  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" width="100" height="100"/>
-</div>
+<p align="center">
+  <div style="display:flex; justify-content: center; width: 100%">
+    <img src="./assets/images/discordjs.png" width="100" height="100"/>
+    <img src="./assets/images/TypeScript_logo.png" width="100" height="100"/>
+    <img src="./assets/images/jest_logo.jpg" width="100" height="100"/>
+    <img src="./assets/images/mongodb-logo.png" width="100" height="100"/>
+    <img src="./assets/images/nodejs.png" width="100" height="100"/>
+    <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" width="100" height="100"/>
+  </div>
+</p>
 
 
 
