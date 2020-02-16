@@ -10,6 +10,7 @@ export const guildId = 'ID OF THE DISCORD SERVER';
 
 
 // throw error if this file is not edited
+// @ts-ignore
 if(TOKEN === 'YOUR TOKEN FOR DEVELOPPER BOT' && botId === 'ID OF THE BOT' && guildId === 'ID OF THE DISCORD SERVER' ) {
   throw new Error('You must complete the "RootDirectoryProject/src/config.ts" file to initialize the bot');
 }
