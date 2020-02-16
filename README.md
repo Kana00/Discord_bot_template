@@ -6,13 +6,13 @@
 
 ## Technologies
 
-<div style="display:flex">
-  <img src="./assets/images/discordjs.png" style="width:20px"/>
-  <img src="./assets/images/TypeScript_logo.png" style="width:20px"/>
-  <img src="./assets/images/jest_logo.jpg" style="width:20px"/>
-  <img src="./assets/images/mongodb-logo.png" style="width:20px"/>
-  <img src="./assets/images/nodejs.png" style="width:20px"/>
-  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg" style="width:20px"/>
+<div style="display: flex; width: 80%">
+  <img src="./assets/images/discordjs.png"/>
+  <img src="./assets/images/TypeScript_logo.png"/>
+  <img src="./assets/images/jest_logo.jpg"/>
+  <img src="./assets/images/mongodb-logo.png"/>
+  <img src="./assets/images/nodejs.png" />
+  <img src="./assets/images/Visual_Studio_Code_1.35_icon.svg"/>
 </div>
 
 ## Installation
