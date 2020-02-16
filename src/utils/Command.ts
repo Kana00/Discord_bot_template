@@ -2,7 +2,7 @@ import Discord from 'discord.js';
 import Logger from './Logger';
 import { guildId, botId } from '../config';
 import { isNull } from 'util';
-
+import _ from '../i18n/Language';
 
 export default class Command {
   prefix: string = '';
@@ -28,7 +28,7 @@ export default class Command {
   onListening(message: Discord.Message) {
     if (this.isTrueCommand(message)) {
       if (this.talkedRecently.has(message.author.id)) {
-        message.channel.send("Don't spam too much 😗 " + message.author)
+        message.channel.send(`${_('warnCommandSpam')} ${message.author}`)
           .then(message => { (message as Discord.Message).delete(3000); });
       } else {
         const messageToTableau = message.content.split(' ');
